@@ -9,8 +9,8 @@
 title: LifexGame
 email: chengyuanmed@163.com
 description: A lost creator
-baseurl: "https://cyentist.github.io/Lifex/" # the subpath of your site, e.g. /blog
-url: "https://cyentist.github.io/Lifex/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "cyentist.github.io/Lifex" # the base hostname & protocol for your site
 twitter_username: cyentist
 github_username:  cyentist
 paginate: 5
