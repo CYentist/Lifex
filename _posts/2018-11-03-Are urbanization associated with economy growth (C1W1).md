@@ -1,4 +1,12 @@
+---
+title: Are Urabanization Associated with Economy Growth
+date: 2018-11-13 00:23:23
+categories:
+ - Homework -Data
+tags: DataAnalysis
 
+
+---
 
 I decided to invest my energy on the Gapminder data mostly because I was very inspired by the website Gapminder.com and it's founder - . My research question will be **how the urbanization influence economy**. So I will see whether GDP growth is associated with urabnization rate. 
 

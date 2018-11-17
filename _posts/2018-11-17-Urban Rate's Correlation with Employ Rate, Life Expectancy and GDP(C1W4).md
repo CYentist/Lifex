@@ -25,17 +25,7 @@ data['lifeexpectancy'] = data['lifeexpectancy'].convert_objects(convert_numeric=
 
 ```
 
-    /Users/CY/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:11: FutureWarning: convert_objects is deprecated.  To re-infer data dtypes for object columns, use Series.infer_objects()
-    For all other conversions use the data-type specific converters pd.to_datetime, pd.to_timedelta and pd.to_numeric.
-      # This is added back by InteractiveShellApp.init_path()
-    /Users/CY/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:12: FutureWarning: convert_objects is deprecated.  To re-infer data dtypes for object columns, use Series.infer_objects()
-    For all other conversions use the data-type specific converters pd.to_datetime, pd.to_timedelta and pd.to_numeric.
-      if sys.path[0] == '':
-    /Users/CY/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:13: FutureWarning: convert_objects is deprecated.  To re-infer data dtypes for object columns, use Series.infer_objects()
-    For all other conversions use the data-type specific converters pd.to_datetime, pd.to_timedelta and pd.to_numeric.
-      del sys.path[0]
-    /Users/CY/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:14: FutureWarning: convert_objects is deprecated.  To re-infer data dtypes for object columns, use Series.infer_objects()
-    For all other conversions use the data-type specific converters pd.to_datetime, pd.to_timedelta and pd.to_numeric.
+
 
 
 
@@ -298,6 +288,3 @@ print (c11)
 
 
 
-```python
-
-```
