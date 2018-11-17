@@ -100,3 +100,8 @@ print(c4)
     high      64
     Name: lifeexpectancy_freq, dtype: int64
 
+1. About missing values, since the variables I choose don't have any missing value, and most of them are numeric values, I don't need to coding any missing value
+2. I created four secondary variables from the numeric variables. Divided them into 3 or 4 levels then checked the frequency distribution of each secondary variable.
+3. Foundings:
+   1. Most countries have medium urban rate. This is lower than I expected
+   2. Most countries' employ rate are between 50% to 75%, which is medium.

@@ -145,3 +145,11 @@ print (ct4)
 
 
 
+I checked the frequency distribution of urban rate, income per person, employ rate and life expectancy and there association.
+
+1.  In the frequency table of urban rate, lower urban rate tend to have lower income per person, employ rate and employ rate
+2.  In the frequency table of income per person, lower incomer per person tend to have lower life expectancy, employ rate and urban rate
+3.  In the frequency table of employ rate, lower employ rate tend to have higher urban rate and higher life expectancy, however, both low and high employ rate have lower income per person than medium employ rate
+4.  In the frequency table of life expectancy, lower life expectancy tend to have lower income per person, lower urban rate but higher employ rate.
+
+In this research, it seems like urban rate, life expectancy and income per person may have a positive correlation, but employ rate of a country may have any association with any one of the other three variable.
