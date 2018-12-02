@@ -1,5 +1,5 @@
 ---
-title: ANOVA and Post hoc analysis(C2W2)
+title: ANOVA and Post hoc analysis(C2W1)
 date: 2018-11-20 00:23:23
 categories:
  - Homework -Data

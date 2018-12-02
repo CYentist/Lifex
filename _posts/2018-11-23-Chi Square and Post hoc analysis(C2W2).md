@@ -1,5 +1,5 @@
 ---
-title: ANOVA and Post hoc analysis(C2W2)
+title: Chi Square and Post hoc analysis(C2W2)
 date: 2018-11-23 00:23:23
 categories:
  - Homework -Data
