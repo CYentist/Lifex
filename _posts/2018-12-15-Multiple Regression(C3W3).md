@@ -301,8 +301,9 @@ fig3=sm.qqplot(reg3.resid, line='r')
 
 ![png](http://img.luhaoip.com/images/2018-12-16-042605.jpg)
 
-
 R-square became larger and the p-value < 0.05, but the residuals are still not noramlly distributed.
+
+*No significant correlation relationship changed after adding internet use rate, so there's no potential confounder.*
 
 **Try to transform dependent variable to fit the model better**
 
@@ -483,7 +484,3 @@ print(fig5)
 
 The new model (transformed income per person as dependent variable, urban rate and internet use rate as independent variables) is a more ideal one. And it could pass the model fit evaluation.
 
-
-```python
-
-```
